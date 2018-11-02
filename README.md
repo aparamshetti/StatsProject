@@ -10,4 +10,4 @@ Additional packages to be installed
 3. matplotlib
 
 Command to install packages \
-pip install <package-name>
+`pip install <package-name>`
